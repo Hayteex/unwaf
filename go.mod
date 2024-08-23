@@ -1,4 +1,4 @@
-module github.com/mmarting/unwaf
+module github.com/Hayteex/unwaf
 
 go 1.23
 
