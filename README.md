@@ -12,7 +12,7 @@ Unwaf is automating the steps I explained on this LinkedIn Post: [Passive WAF by
 To install Unwaf, use the `go install` command:
 
 ```sh
-go install github.com/mmarting/unwaf@latest
+go install github.com/Hayteex/unwaf@latest
 ```
 
 ## Usage
